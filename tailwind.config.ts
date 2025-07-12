@@ -88,7 +88,12 @@ export default {
 			},
 			animation: {
 				'accordion-down': 'accordion-down 0.2s ease-out',
-				'accordion-up': 'accordion-up 0.2s ease-out'
+				'accordion-up': 'accordion-up 0.2s ease-out',
+				'holographic-shift': 'holographic-shift 3s ease-in-out infinite',
+				'floating': 'floating 6s ease-in-out infinite',
+				'particle-drift': 'particle-drift 20s linear infinite',
+				'glow-pulse': 'glow-pulse 2s ease-in-out infinite',
+				'rotate-slow': 'rotate-slow 20s linear infinite'
 			}
 		}
 	},
